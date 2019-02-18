@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+There was some outdated info regarding the build script for the module, but nothing serious. The android studio editor notified me of the issue ("compile" was outdated, changed to "implementation")
 
 ## License
 
